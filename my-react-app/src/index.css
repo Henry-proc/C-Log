@@ -69,13 +69,8 @@ button:focus-visible {
   }
 }
 
-
-header{
-  background-color: #213547;
-  position: sticky;
-  top: 0;
-  width: 100%;
-  color: #f1f1f1;
-  display: flex;
-  justify-content: center;
+.climb{
+  background-color: #2e2e2e;
+  border-radius: 2%;
+  border-style: none;
 }
