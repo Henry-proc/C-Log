@@ -7,7 +7,7 @@ export default function Climb({name , grade}){
                 {name}
             </h2>
             <h3 className = 'grade'>
-                {grade}
+                Grade: {grade}
             </h3>
             <p className = 'desc'>
 

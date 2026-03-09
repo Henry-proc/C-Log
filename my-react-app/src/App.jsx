@@ -10,10 +10,10 @@ function App() {
     <>
 
     <Header pageName= "Home"/>
-    <body>
+    <div>
       <Climb name= "no one mournes the wicked" grade = "V17"/> 
       <Climb name= "burden of dreams" grade = "V17"/> 
-    </body>
+    </div>
     </>
   )
 }
